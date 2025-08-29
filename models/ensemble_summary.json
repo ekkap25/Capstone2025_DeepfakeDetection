@@ -1,0 +1,15 @@
+{
+  "alpha_used": 0.5,
+  "threshold_used": 0.5,
+  "val_best_alpha_acc": {
+    "alpha": 0.5,
+    "val_acc": 0.9662522202486679
+  },
+  "val_best_alpha_f1": {
+    "alpha": 0.5,
+    "val_f1_fake": 0.9669565217391304
+  },
+  "test_equal_weight_acc": 0.967128027681661,
+  "test_weighted_acc": 0.967128027681661,
+  "timestamp": "2025-08-18 20:58:56"
+}

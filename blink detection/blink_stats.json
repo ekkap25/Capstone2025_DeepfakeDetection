@@ -1,0 +1,2002 @@
+[
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real001.mp4",
+    "duration_s": 15.84,
+    "frames_analyzed": 198,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 27.272727272727273,
+    "ear_mean": 0.3497425974451397,
+    "ear_std": 0.09798396766633086
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real002.mp4",
+    "duration_s": 18.4,
+    "frames_analyzed": 230,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 3.913043478260869,
+    "ear_mean": 0.4528376273478411,
+    "ear_std": 0.09303478338154522
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real003.mp4",
+    "duration_s": 23.1,
+    "frames_analyzed": 347,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 15.561959654178676,
+    "ear_mean": 0.44551336506527917,
+    "ear_std": 0.1188631001591291
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real004.mp4",
+    "duration_s": 12.12,
+    "frames_analyzed": 152,
+    "fps_effective": 15.0,
+    "blink_count": 5,
+    "blink_rate_pm": 29.605263157894736,
+    "ear_mean": 0.23436234404156456,
+    "ear_std": 0.12174980038113603
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real005.mp4",
+    "duration_s": 12.36,
+    "frames_analyzed": 155,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 17.419354838709676,
+    "ear_mean": 0.4874224651513729,
+    "ear_std": 0.13850373614372047
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real006.mp4",
+    "duration_s": 15.4,
+    "frames_analyzed": 193,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 13.98963730569948,
+    "ear_mean": 0.40283271064302834,
+    "ear_std": 0.0812423986889155
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real007.mp4",
+    "duration_s": 10.333333333333334,
+    "frames_analyzed": 155,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 5.806451612903226,
+    "ear_mean": 0.5002658706005716,
+    "ear_std": 0.15577572362320155
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real008.mp4",
+    "duration_s": 20.2,
+    "frames_analyzed": 253,
+    "fps_effective": 15.0,
+    "blink_count": 4,
+    "blink_rate_pm": 14.229249011857705,
+    "ear_mean": 0.3295865184699083,
+    "ear_std": 0.09547367350992754
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real009.mp4",
+    "duration_s": 25.48,
+    "frames_analyzed": 319,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 5.6426332288401255,
+    "ear_mean": 0.36924228745425236,
+    "ear_std": 0.08139889886239761
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real010.mp4",
+    "duration_s": 19.6,
+    "frames_analyzed": 294,
+    "fps_effective": 15.0,
+    "blink_count": 8,
+    "blink_rate_pm": 24.489795918367342,
+    "ear_mean": 0.3020911842871942,
+    "ear_std": 0.07275734009273059
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real011.mp4",
+    "duration_s": 18.96,
+    "frames_analyzed": 237,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.404109980970501,
+    "ear_std": 0.045725028663992355
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real012.mp4",
+    "duration_s": 26.333333333333332,
+    "frames_analyzed": 316,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.5101234421908636,
+    "ear_std": 0.03507200539165041
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real013.mp4",
+    "duration_s": 14.52,
+    "frames_analyzed": 182,
+    "fps_effective": 15.0,
+    "blink_count": 4,
+    "blink_rate_pm": 19.78021978021978,
+    "ear_mean": 0.33952555885174823,
+    "ear_std": 0.07362593528584084
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real014.mp4",
+    "duration_s": 13.28,
+    "frames_analyzed": 166,
+    "fps_effective": 15.0,
+    "blink_count": 9,
+    "blink_rate_pm": 48.795180722891565,
+    "ear_mean": 0.37687124019378476,
+    "ear_std": 0.1926575865325089
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real015.mp4",
+    "duration_s": 22.533333333333335,
+    "frames_analyzed": 338,
+    "fps_effective": 15.0,
+    "blink_count": 9,
+    "blink_rate_pm": 23.964497041420117,
+    "ear_mean": 0.27007233582586865,
+    "ear_std": 0.0445448430553836
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real016.mp4",
+    "duration_s": 14.566666666666666,
+    "frames_analyzed": 219,
+    "fps_effective": 15.0,
+    "blink_count": 5,
+    "blink_rate_pm": 20.547945205479454,
+    "ear_mean": 0.26175245828241567,
+    "ear_std": 0.11086481748076911
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real017.mp4",
+    "duration_s": 22.6,
+    "frames_analyzed": 339,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 15.929203539823007,
+    "ear_mean": 0.3620134076983261,
+    "ear_std": 0.06653661553444332
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real018.mp4",
+    "duration_s": 13.266666666666667,
+    "frames_analyzed": 199,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 13.567839195979898,
+    "ear_mean": 0.4182102353260032,
+    "ear_std": 0.08844304614142312
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real019.mp4",
+    "duration_s": 14.4,
+    "frames_analyzed": 216,
+    "fps_effective": 15.0,
+    "blink_count": 4,
+    "blink_rate_pm": 16.666666666666664,
+    "ear_mean": 0.3318299370494306,
+    "ear_std": 0.06975082439599219
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real020.mp4",
+    "duration_s": 46.166666666666664,
+    "frames_analyzed": 693,
+    "fps_effective": 15.0,
+    "blink_count": 13,
+    "blink_rate_pm": 16.883116883116884,
+    "ear_mean": 0.4194308486660892,
+    "ear_std": 0.11232235407035503
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real021.mp4",
+    "duration_s": 15.6,
+    "frames_analyzed": 195,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 27.69230769230769,
+    "ear_mean": 0.3574298208097529,
+    "ear_std": 0.0966956535952159
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real022.mp4",
+    "duration_s": 14.366666666666667,
+    "frames_analyzed": 216,
+    "fps_effective": 15.0,
+    "blink_count": 16,
+    "blink_rate_pm": 66.66666666666666,
+    "ear_mean": 0.32594110565022794,
+    "ear_std": 0.12815972830381028
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real023.mp4",
+    "duration_s": 10.833333333333334,
+    "frames_analyzed": 163,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 5.521472392638037,
+    "ear_mean": 0.5679965242057285,
+    "ear_std": 0.11629701552457168
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real024.mp4",
+    "duration_s": 22.12,
+    "frames_analyzed": 277,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 6.498194945848375,
+    "ear_mean": 0.4173001011168485,
+    "ear_std": 0.07321526472389846
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real025.mp4",
+    "duration_s": 12.24,
+    "frames_analyzed": 153,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.44694878009278804,
+    "ear_std": 0.05927672679193246
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real026.mp4",
+    "duration_s": 24.9,
+    "frames_analyzed": 374,
+    "fps_effective": 15.0,
+    "blink_count": 7,
+    "blink_rate_pm": 16.844919786096256,
+    "ear_mean": 0.4484097827345801,
+    "ear_std": 0.10164864407881291
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real027.mp4",
+    "duration_s": 12.88,
+    "frames_analyzed": 161,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 5.590062111801243,
+    "ear_mean": 0.35183764824280744,
+    "ear_std": 0.10967436386153598
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real028.mp4",
+    "duration_s": 10.5,
+    "frames_analyzed": 158,
+    "fps_effective": 15.0,
+    "blink_count": 7,
+    "blink_rate_pm": 39.87341772151899,
+    "ear_mean": 0.3698794068384057,
+    "ear_std": 0.11985975808450097
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real029.mp4",
+    "duration_s": 14.466666666666667,
+    "frames_analyzed": 217,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 12.442396313364055,
+    "ear_mean": 0.4404027837184052,
+    "ear_std": 0.1046043768554856
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real030.mp4",
+    "duration_s": 16.64,
+    "frames_analyzed": 208,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 4.326923076923077,
+    "ear_mean": 0.46187298569380797,
+    "ear_std": 0.06467676296529393
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real031.mp4",
+    "duration_s": 9.9,
+    "frames_analyzed": 149,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 36.241610738255034,
+    "ear_mean": 0.4437578877286289,
+    "ear_std": 0.19974910314033859
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real032.mp4",
+    "duration_s": 16.066666666666666,
+    "frames_analyzed": 241,
+    "fps_effective": 15.0,
+    "blink_count": 10,
+    "blink_rate_pm": 37.344398340248965,
+    "ear_mean": 0.42738891741313634,
+    "ear_std": 0.14250553057894264
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real033.mp4",
+    "duration_s": 10.333333333333334,
+    "frames_analyzed": 155,
+    "fps_effective": 15.0,
+    "blink_count": 5,
+    "blink_rate_pm": 29.032258064516128,
+    "ear_mean": 0.4235068086022607,
+    "ear_std": 0.1314175265320782
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real034.mp4",
+    "duration_s": 32.36,
+    "frames_analyzed": 405,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 4.444444444444445,
+    "ear_mean": 0.4196703853318326,
+    "ear_std": 0.05560325021197389
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real035.mp4",
+    "duration_s": 13.566666666666666,
+    "frames_analyzed": 204,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 26.47058823529412,
+    "ear_mean": 0.32087401970201074,
+    "ear_std": 0.09169328016164448
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real036.mp4",
+    "duration_s": 16.92,
+    "frames_analyzed": 212,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 25.471698113207548,
+    "ear_mean": 0.35875238086868894,
+    "ear_std": 0.09437541940948835
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real037.mp4",
+    "duration_s": 13.48,
+    "frames_analyzed": 169,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 10.650887573964496,
+    "ear_mean": 0.3495871182094984,
+    "ear_std": 0.048496463072110176
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real038.mp4",
+    "duration_s": 18.16,
+    "frames_analyzed": 227,
+    "fps_effective": 15.0,
+    "blink_count": 7,
+    "blink_rate_pm": 27.75330396475771,
+    "ear_mean": 0.3163445725338979,
+    "ear_std": 0.08842664781757911
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real039.mp4",
+    "duration_s": 10.166666666666666,
+    "frames_analyzed": 153,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 11.764705882352942,
+    "ear_mean": 0.45700394332859107,
+    "ear_std": 0.09065870940029272
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real040.mp4",
+    "duration_s": 20.3,
+    "frames_analyzed": 305,
+    "fps_effective": 15.0,
+    "blink_count": 15,
+    "blink_rate_pm": 44.26229508196722,
+    "ear_mean": 0.31750015992034897,
+    "ear_std": 0.090726587705535
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real041.mp4",
+    "duration_s": 21.92,
+    "frames_analyzed": 274,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 6.569343065693431,
+    "ear_mean": 0.5118353866058252,
+    "ear_std": 0.1124867404494916
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real042.mp4",
+    "duration_s": 13.96,
+    "frames_analyzed": 175,
+    "fps_effective": 15.0,
+    "blink_count": 9,
+    "blink_rate_pm": 46.285714285714285,
+    "ear_mean": 0.1448468485428222,
+    "ear_std": 0.0949274779695941
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real043.mp4",
+    "duration_s": 22.533333333333335,
+    "frames_analyzed": 338,
+    "fps_effective": 15.0,
+    "blink_count": 9,
+    "blink_rate_pm": 23.964497041420117,
+    "ear_mean": 0.3295906210740469,
+    "ear_std": 0.08434506215599978
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real044.mp4",
+    "duration_s": 16.5,
+    "frames_analyzed": 248,
+    "fps_effective": 15.0,
+    "blink_count": 9,
+    "blink_rate_pm": 32.66129032258064,
+    "ear_mean": 0.3794530595459255,
+    "ear_std": 0.11971291026171962
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real045.mp4",
+    "duration_s": 11.166666666666666,
+    "frames_analyzed": 168,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 10.714285714285715,
+    "ear_mean": 0.4601837318147861,
+    "ear_std": 0.0909804430315516
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real046.mp4",
+    "duration_s": 14.0,
+    "frames_analyzed": 175,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 15.428571428571429,
+    "ear_mean": 0.5453303046294882,
+    "ear_std": 0.17001672895684242
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real047.mp4",
+    "duration_s": 16.8,
+    "frames_analyzed": 252,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 7.142857142857142,
+    "ear_mean": 0.4849304051832794,
+    "ear_std": 0.10436701052947905
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real048.mp4",
+    "duration_s": 10.633333333333333,
+    "frames_analyzed": 160,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 5.625000000000001,
+    "ear_mean": 0.5265151501380079,
+    "ear_std": 0.10719073141065007
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real049.mp4",
+    "duration_s": 19.4,
+    "frames_analyzed": 243,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 22.222222222222225,
+    "ear_mean": 0.2616083349749503,
+    "ear_std": 0.16789362743591113
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real050.mp4",
+    "duration_s": 12.0,
+    "frames_analyzed": 180,
+    "fps_effective": 15.0,
+    "blink_count": 5,
+    "blink_rate_pm": 25.0,
+    "ear_mean": 0.3501305125471817,
+    "ear_std": 0.0846574967641139
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real051.mp4",
+    "duration_s": 21.2,
+    "frames_analyzed": 265,
+    "fps_effective": 15.0,
+    "blink_count": 11,
+    "blink_rate_pm": 37.35849056603774,
+    "ear_mean": 0.2270406447316419,
+    "ear_std": 0.04202183869541813
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real052.mp4",
+    "duration_s": 28.68,
+    "frames_analyzed": 359,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 15.041782729805014,
+    "ear_mean": 0.48959963961246133,
+    "ear_std": 0.1513355746551381
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real053.mp4",
+    "duration_s": 10.766666666666667,
+    "frames_analyzed": 162,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.49832280388608086,
+    "ear_std": 0.0808173415585082
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real054.mp4",
+    "duration_s": 16.68,
+    "frames_analyzed": 209,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 8.61244019138756,
+    "ear_mean": 0.4136372774930346,
+    "ear_std": 0.10280910595873902
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real055.mp4",
+    "duration_s": 12.266666666666667,
+    "frames_analyzed": 184,
+    "fps_effective": 15.0,
+    "blink_count": 14,
+    "blink_rate_pm": 68.47826086956522,
+    "ear_mean": 0.2855679974794069,
+    "ear_std": 0.09884515004959427
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real056.mp4",
+    "duration_s": 13.133333333333333,
+    "frames_analyzed": 197,
+    "fps_effective": 15.0,
+    "blink_count": 13,
+    "blink_rate_pm": 59.390862944162436,
+    "ear_mean": 0.2474328605919046,
+    "ear_std": 0.12991885446584878
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real057.mp4",
+    "duration_s": 14.92,
+    "frames_analyzed": 187,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.45058736728705717,
+    "ear_std": 0.050865701957817526
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real058.mp4",
+    "duration_s": 17.24,
+    "frames_analyzed": 216,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 4.166666666666666,
+    "ear_mean": 0.4186995453988342,
+    "ear_std": 0.08667978238808349
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real059.mp4",
+    "duration_s": 22.3,
+    "frames_analyzed": 335,
+    "fps_effective": 15.0,
+    "blink_count": 11,
+    "blink_rate_pm": 29.552238805970152,
+    "ear_mean": 0.27643990148171455,
+    "ear_std": 0.06914719496258505
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real060.mp4",
+    "duration_s": 28.84,
+    "frames_analyzed": 361,
+    "fps_effective": 15.0,
+    "blink_count": 14,
+    "blink_rate_pm": 34.903047091412745,
+    "ear_mean": 0.3402446046245806,
+    "ear_std": 0.10324786879779765
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real061.mp4",
+    "duration_s": 33.76,
+    "frames_analyzed": 422,
+    "fps_effective": 15.0,
+    "blink_count": 24,
+    "blink_rate_pm": 51.18483412322275,
+    "ear_mean": 0.25894416611322457,
+    "ear_std": 0.12366904787854126
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real062.mp4",
+    "duration_s": 13.48,
+    "frames_analyzed": 169,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 31.95266272189349,
+    "ear_mean": 0.32717396673535,
+    "ear_std": 0.09902546175725971
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real063.mp4",
+    "duration_s": 14.1,
+    "frames_analyzed": 212,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 8.49056603773585,
+    "ear_mean": 0.3958026547002091,
+    "ear_std": 0.06098121401027242
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real064.mp4",
+    "duration_s": 37.2,
+    "frames_analyzed": 465,
+    "fps_effective": 15.0,
+    "blink_count": 24,
+    "blink_rate_pm": 46.4516129032258,
+    "ear_mean": 0.29529368238380005,
+    "ear_std": 0.09439411139265637
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real065.mp4",
+    "duration_s": 16.08,
+    "frames_analyzed": 201,
+    "fps_effective": 15.0,
+    "blink_count": 7,
+    "blink_rate_pm": 31.34328358208955,
+    "ear_mean": 0.2678566339885264,
+    "ear_std": 0.12242261402430807
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real066.mp4",
+    "duration_s": 17.68,
+    "frames_analyzed": 221,
+    "fps_effective": 15.0,
+    "blink_count": 12,
+    "blink_rate_pm": 48.86877828054298,
+    "ear_mean": 0.37918022245519595,
+    "ear_std": 0.12548330625040818
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real067.mp4",
+    "duration_s": 14.5,
+    "frames_analyzed": 218,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 4.128440366972477,
+    "ear_mean": 0.34928666156338356,
+    "ear_std": 0.034530285129078374
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real068.mp4",
+    "duration_s": 17.933333333333334,
+    "frames_analyzed": 269,
+    "fps_effective": 15.0,
+    "blink_count": 7,
+    "blink_rate_pm": 23.42007434944238,
+    "ear_mean": 0.5458324140767848,
+    "ear_std": 0.1244101276613366
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real069.mp4",
+    "duration_s": 13.366666666666667,
+    "frames_analyzed": 201,
+    "fps_effective": 15.0,
+    "blink_count": 4,
+    "blink_rate_pm": 17.910447761194032,
+    "ear_mean": 0.42152773782000463,
+    "ear_std": 0.09336286846650355
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real070.mp4",
+    "duration_s": 25.8,
+    "frames_analyzed": 387,
+    "fps_effective": 15.0,
+    "blink_count": 16,
+    "blink_rate_pm": 37.2093023255814,
+    "ear_mean": 0.5444251982817194,
+    "ear_std": 0.21496600021347181
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real071.mp4",
+    "duration_s": 14.68,
+    "frames_analyzed": 184,
+    "fps_effective": 15.0,
+    "blink_count": 4,
+    "blink_rate_pm": 19.565217391304348,
+    "ear_mean": 0.3032388696729726,
+    "ear_std": 0.11658011153180427
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real072.mp4",
+    "duration_s": 15.1,
+    "frames_analyzed": 227,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.4366688172097091,
+    "ear_std": 0.0716172598598378
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real073.mp4",
+    "duration_s": 12.44,
+    "frames_analyzed": 156,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 5.769230769230769,
+    "ear_mean": 0.3364799886373963,
+    "ear_std": 0.05788329004523307
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real074.mp4",
+    "duration_s": 28.12,
+    "frames_analyzed": 352,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.5179218293105556,
+    "ear_std": 0.06043486192187721
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real075.mp4",
+    "duration_s": 13.8,
+    "frames_analyzed": 173,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.4843078016562705,
+    "ear_std": 0.07822062336171645
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real076.mp4",
+    "duration_s": 20.433333333333334,
+    "frames_analyzed": 307,
+    "fps_effective": 15.0,
+    "blink_count": 11,
+    "blink_rate_pm": 32.247557003257334,
+    "ear_mean": 0.4513801795654803,
+    "ear_std": 0.15172026599959076
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real077.mp4",
+    "duration_s": 10.966666666666667,
+    "frames_analyzed": 165,
+    "fps_effective": 15.0,
+    "blink_count": 8,
+    "blink_rate_pm": 43.63636363636364,
+    "ear_mean": 0.33511822178935297,
+    "ear_std": 0.1750140540506025
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real078.mp4",
+    "duration_s": 24.44,
+    "frames_analyzed": 306,
+    "fps_effective": 15.0,
+    "blink_count": 8,
+    "blink_rate_pm": 23.529411764705884,
+    "ear_mean": 0.3749201552449154,
+    "ear_std": 0.12191091448328126
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real079.mp4",
+    "duration_s": 20.92,
+    "frames_analyzed": 262,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 3.435114503816794,
+    "ear_mean": 0.4728053521885948,
+    "ear_std": 0.08487347174389953
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real080.mp4",
+    "duration_s": 14.133333333333333,
+    "frames_analyzed": 212,
+    "fps_effective": 15.0,
+    "blink_count": 7,
+    "blink_rate_pm": 29.716981132075475,
+    "ear_mean": 0.4186807660795004,
+    "ear_std": 0.15266840599594222
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real081.mp4",
+    "duration_s": 19.32,
+    "frames_analyzed": 242,
+    "fps_effective": 15.0,
+    "blink_count": 4,
+    "blink_rate_pm": 14.87603305785124,
+    "ear_mean": 0.34967499792357126,
+    "ear_std": 0.09770629139495582
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real082.mp4",
+    "duration_s": 46.8,
+    "frames_analyzed": 585,
+    "fps_effective": 15.0,
+    "blink_count": 15,
+    "blink_rate_pm": 23.076923076923077,
+    "ear_mean": 0.30815014678780417,
+    "ear_std": 0.1210819333759058
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real083.mp4",
+    "duration_s": 12.64,
+    "frames_analyzed": 158,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.3808809403793925,
+    "ear_std": 0.03767295972667545
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real084.mp4",
+    "duration_s": 18.166666666666668,
+    "frames_analyzed": 273,
+    "fps_effective": 15.0,
+    "blink_count": 7,
+    "blink_rate_pm": 23.076923076923077,
+    "ear_mean": 0.15339104367517567,
+    "ear_std": 0.15827486911516447
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real085.mp4",
+    "duration_s": 15.625,
+    "frames_analyzed": 188,
+    "fps_effective": 15.0,
+    "blink_count": 9,
+    "blink_rate_pm": 43.08510638297873,
+    "ear_mean": 0.3439344638647715,
+    "ear_std": 0.22291673690079078
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real086.mp4",
+    "duration_s": 13.16,
+    "frames_analyzed": 165,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 10.90909090909091,
+    "ear_mean": 0.36499008859513493,
+    "ear_std": 0.09722993387219867
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real087.mp4",
+    "duration_s": 31.166666666666668,
+    "frames_analyzed": 468,
+    "fps_effective": 15.0,
+    "blink_count": 13,
+    "blink_rate_pm": 25.0,
+    "ear_mean": 0.45081653755612106,
+    "ear_std": 0.10508975958608464
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real088.mp4",
+    "duration_s": 12.36,
+    "frames_analyzed": 155,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.40440194641093735,
+    "ear_std": 0.03370221653385866
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real089.mp4",
+    "duration_s": 26.6,
+    "frames_analyzed": 333,
+    "fps_effective": 15.0,
+    "blink_count": 7,
+    "blink_rate_pm": 18.91891891891892,
+    "ear_mean": 0.3709066687245014,
+    "ear_std": 0.0922109008763256
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real090.mp4",
+    "duration_s": 30.04,
+    "frames_analyzed": 376,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 2.393617021276596,
+    "ear_mean": 0.4474180382625526,
+    "ear_std": 0.09020909998096609
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real091.mp4",
+    "duration_s": 22.9,
+    "frames_analyzed": 344,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 7.848837209302325,
+    "ear_mean": 0.556473754956637,
+    "ear_std": 0.09211495447408906
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real092.mp4",
+    "duration_s": 21.3,
+    "frames_analyzed": 320,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.4158589264182037,
+    "ear_std": 0.0780505950541887
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real093.mp4",
+    "duration_s": 18.4,
+    "frames_analyzed": 230,
+    "fps_effective": 15.0,
+    "blink_count": 5,
+    "blink_rate_pm": 19.565217391304344,
+    "ear_mean": 0.375542419183746,
+    "ear_std": 0.06760930095708659
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real094.mp4",
+    "duration_s": 12.833333333333334,
+    "frames_analyzed": 154,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 5.844155844155844,
+    "ear_mean": 0.5249663458334726,
+    "ear_std": 0.15625458558143931
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real095.mp4",
+    "duration_s": 22.36,
+    "frames_analyzed": 280,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.42942805462232675,
+    "ear_std": 0.05908014187858357
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real096.mp4",
+    "duration_s": 40.24,
+    "frames_analyzed": 503,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 3.5785288270377733,
+    "ear_mean": 0.43902705998492364,
+    "ear_std": 0.07494717436641561
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real097.mp4",
+    "duration_s": 16.8,
+    "frames_analyzed": 252,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": NaN,
+    "ear_std": NaN
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real098.mp4",
+    "duration_s": 19.12,
+    "frames_analyzed": 239,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 3.765690376569038,
+    "ear_mean": 0.31798022850393864,
+    "ear_std": 0.04479208849716988
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real099.mp4",
+    "duration_s": 11.96,
+    "frames_analyzed": 150,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.36424589042736705,
+    "ear_std": 0.030293568176843064
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/real/real100.mp4",
+    "duration_s": 24.52,
+    "frames_analyzed": 307,
+    "fps_effective": 15.0,
+    "blink_count": 9,
+    "blink_rate_pm": 26.38436482084691,
+    "ear_mean": 0.35977897255260466,
+    "ear_std": 0.14105478363908192
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake001.mp4",
+    "duration_s": 15.84,
+    "frames_analyzed": 198,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 27.272727272727273,
+    "ear_mean": 0.27798524165594973,
+    "ear_std": 0.06429696467607683
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake002.mp4",
+    "duration_s": 18.4,
+    "frames_analyzed": 230,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.44797422317427693,
+    "ear_std": 0.03405594345265704
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake003.mp4",
+    "duration_s": 23.1,
+    "frames_analyzed": 347,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.4371949370171759,
+    "ear_std": 0.06766358050053778
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake004.mp4",
+    "duration_s": 12.12,
+    "frames_analyzed": 152,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 17.763157894736842,
+    "ear_mean": 0.2676420878143087,
+    "ear_std": 0.13732683171199864
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake005.mp4",
+    "duration_s": 12.36,
+    "frames_analyzed": 155,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 5.806451612903226,
+    "ear_mean": 0.34937427482705197,
+    "ear_std": 0.058636011981319805
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake006.mp4",
+    "duration_s": 15.4,
+    "frames_analyzed": 193,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.40097111871123386,
+    "ear_std": 0.042540909326701015
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake007.mp4",
+    "duration_s": 10.333333333333334,
+    "frames_analyzed": 155,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 5.806451612903226,
+    "ear_mean": 0.4755064040931494,
+    "ear_std": 0.12387969917024197
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake008.mp4",
+    "duration_s": 20.2,
+    "frames_analyzed": 253,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 3.5573122529644263,
+    "ear_mean": 0.33894623159193693,
+    "ear_std": 0.060011609990589444
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake009.mp4",
+    "duration_s": 25.48,
+    "frames_analyzed": 319,
+    "fps_effective": 15.0,
+    "blink_count": 5,
+    "blink_rate_pm": 14.106583072100314,
+    "ear_mean": 0.3427198812666954,
+    "ear_std": 0.08738717677342582
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake010.mp4",
+    "duration_s": 19.6,
+    "frames_analyzed": 294,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 3.0612244897959178,
+    "ear_mean": 0.35087018443444695,
+    "ear_std": 0.03960779378681054
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake011.mp4",
+    "duration_s": 18.96,
+    "frames_analyzed": 237,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.3879141109839698,
+    "ear_std": 0.048386754723699944
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake012.mp4",
+    "duration_s": 26.333333333333332,
+    "frames_analyzed": 316,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 5.69620253164557,
+    "ear_mean": 0.34720575839905404,
+    "ear_std": 0.057135939314662806
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake013.mp4",
+    "duration_s": 14.52,
+    "frames_analyzed": 182,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.40016134811665016,
+    "ear_std": 0.07969902076504312
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake014.mp4",
+    "duration_s": 13.28,
+    "frames_analyzed": 166,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.4923017561670715,
+    "ear_std": 0.04189302554440343
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake015.mp4",
+    "duration_s": 22.533333333333335,
+    "frames_analyzed": 338,
+    "fps_effective": 15.0,
+    "blink_count": 9,
+    "blink_rate_pm": 23.964497041420117,
+    "ear_mean": 0.12637097733208477,
+    "ear_std": 0.05256547732293416
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake016.mp4",
+    "duration_s": 14.566666666666666,
+    "frames_analyzed": 219,
+    "fps_effective": 15.0,
+    "blink_count": 11,
+    "blink_rate_pm": 45.205479452054796,
+    "ear_mean": 0.23670885305653194,
+    "ear_std": 0.07344830355316992
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake017.mp4",
+    "duration_s": 22.6,
+    "frames_analyzed": 339,
+    "fps_effective": 15.0,
+    "blink_count": 24,
+    "blink_rate_pm": 63.71681415929203,
+    "ear_mean": 0.2092596763551101,
+    "ear_std": 0.02783174360778887
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake018.mp4",
+    "duration_s": 15.92,
+    "frames_analyzed": 199,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.5852803769213213,
+    "ear_std": 0.03450911204139335
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake019.mp4",
+    "duration_s": 14.4,
+    "frames_analyzed": 216,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 12.499999999999998,
+    "ear_mean": 0.40202851155923963,
+    "ear_std": 0.08295730297450361
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake020.mp4",
+    "duration_s": 46.166666666666664,
+    "frames_analyzed": 693,
+    "fps_effective": 15.0,
+    "blink_count": 19,
+    "blink_rate_pm": 24.675324675324674,
+    "ear_mean": 0.2933605431654799,
+    "ear_std": 0.06743449312949318
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake021.mp4",
+    "duration_s": 15.6,
+    "frames_analyzed": 195,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.2877645511922518,
+    "ear_std": 0.021602009288825157
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake022.mp4",
+    "duration_s": 14.366666666666667,
+    "frames_analyzed": 216,
+    "fps_effective": 15.0,
+    "blink_count": 5,
+    "blink_rate_pm": 20.833333333333332,
+    "ear_mean": 0.3493655631961926,
+    "ear_std": 0.07512494777826625
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake023.mp4",
+    "duration_s": 10.833333333333334,
+    "frames_analyzed": 163,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 16.56441717791411,
+    "ear_mean": 0.47911974422537,
+    "ear_std": 0.09790006653215003
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake024.mp4",
+    "duration_s": 22.12,
+    "frames_analyzed": 277,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 3.2490974729241877,
+    "ear_mean": 0.3177242352213202,
+    "ear_std": 0.035235422266994346
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake025.mp4",
+    "duration_s": 12.24,
+    "frames_analyzed": 153,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.389401179401434,
+    "ear_std": 0.03829450274733869
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake026.mp4",
+    "duration_s": 24.9,
+    "frames_analyzed": 374,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 14.43850267379679,
+    "ear_mean": 0.36244992404169907,
+    "ear_std": 0.09056314393765623
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake027.mp4",
+    "duration_s": 12.88,
+    "frames_analyzed": 161,
+    "fps_effective": 15.0,
+    "blink_count": 12,
+    "blink_rate_pm": 67.08074534161491,
+    "ear_mean": 0.2411580041157312,
+    "ear_std": 0.06123980197470752
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake028.mp4",
+    "duration_s": 10.5,
+    "frames_analyzed": 158,
+    "fps_effective": 15.0,
+    "blink_count": 7,
+    "blink_rate_pm": 39.87341772151899,
+    "ear_mean": 0.23817355880938157,
+    "ear_std": 0.059792132421444
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake029.mp4",
+    "duration_s": 14.466666666666667,
+    "frames_analyzed": 217,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.5660354969209895,
+    "ear_std": 0.08217122558666246
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake030.mp4",
+    "duration_s": 16.64,
+    "frames_analyzed": 208,
+    "fps_effective": 15.0,
+    "blink_count": 5,
+    "blink_rate_pm": 21.634615384615383,
+    "ear_mean": 0.3164628417950801,
+    "ear_std": 0.08848043370521053
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake031.mp4",
+    "duration_s": 9.9,
+    "frames_analyzed": 149,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.5206347290643936,
+    "ear_std": 0.06866350757835017
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake032.mp4",
+    "duration_s": 16.066666666666666,
+    "frames_analyzed": 241,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.4145296319276908,
+    "ear_std": 0.03574084104647949
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake033.mp4",
+    "duration_s": 10.333333333333334,
+    "frames_analyzed": 155,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 17.419354838709676,
+    "ear_mean": 0.43484566881665015,
+    "ear_std": 0.10188828010643622
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake034.mp4",
+    "duration_s": 32.36,
+    "frames_analyzed": 405,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.35262255428097977,
+    "ear_std": 0.03863705444067421
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake035.mp4",
+    "duration_s": 13.566666666666666,
+    "frames_analyzed": 204,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 13.23529411764706,
+    "ear_mean": 0.3300710165191178,
+    "ear_std": 0.04931605152216963
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake036.mp4",
+    "duration_s": 16.92,
+    "frames_analyzed": 212,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.37921221125818627,
+    "ear_std": 0.010656451809764366
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake037.mp4",
+    "duration_s": 13.48,
+    "frames_analyzed": 169,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.3590697484110382,
+    "ear_std": 0.04221451213367969
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake038.mp4",
+    "duration_s": 18.16,
+    "frames_analyzed": 227,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 7.929515418502202,
+    "ear_mean": 0.3538770092554252,
+    "ear_std": 0.07767802755786901
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake039.mp4",
+    "duration_s": 10.166666666666666,
+    "frames_analyzed": 153,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 5.882352941176471,
+    "ear_mean": 0.5373636763703202,
+    "ear_std": 0.08248441415525166
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake040.mp4",
+    "duration_s": 20.3,
+    "frames_analyzed": 305,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 5.901639344262295,
+    "ear_mean": 0.11831099747438684,
+    "ear_std": 0.027238057034132512
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake041.mp4",
+    "duration_s": 21.92,
+    "frames_analyzed": 274,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 6.569343065693431,
+    "ear_mean": 0.39105107264750866,
+    "ear_std": 0.15973621153066653
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake042.mp4",
+    "duration_s": 13.96,
+    "frames_analyzed": 175,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.3007996637566243,
+    "ear_std": 0.030535531466225112
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake043.mp4",
+    "duration_s": 14.083333333333334,
+    "frames_analyzed": 169,
+    "fps_effective": 15.0,
+    "blink_count": 12,
+    "blink_rate_pm": 63.90532544378698,
+    "ear_mean": 0.2857554630158817,
+    "ear_std": 0.11696091281963175
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake044.mp4",
+    "duration_s": 16.5,
+    "frames_analyzed": 248,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 21.774193548387093,
+    "ear_mean": 0.31190814438150083,
+    "ear_std": 0.08149805165459725
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake045.mp4",
+    "duration_s": 11.166666666666666,
+    "frames_analyzed": 168,
+    "fps_effective": 15.0,
+    "blink_count": 4,
+    "blink_rate_pm": 21.42857142857143,
+    "ear_mean": 0.4610159462304461,
+    "ear_std": 0.10097415116082495
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake046.mp4",
+    "duration_s": 14.0,
+    "frames_analyzed": 175,
+    "fps_effective": 15.0,
+    "blink_count": 15,
+    "blink_rate_pm": 77.14285714285714,
+    "ear_mean": 0.22544375707651876,
+    "ear_std": 0.07356698763595412
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake047.mp4",
+    "duration_s": 16.8,
+    "frames_analyzed": 252,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.41715126985436857,
+    "ear_std": 0.023820209914005675
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake048.mp4",
+    "duration_s": 10.633333333333333,
+    "frames_analyzed": 160,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.4808515437715558,
+    "ear_std": 0.07323108056851592
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake049.mp4",
+    "duration_s": 19.4,
+    "frames_analyzed": 243,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.48831296409898434,
+    "ear_std": 0.026222150219239498
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake050.mp4",
+    "duration_s": 12.0,
+    "frames_analyzed": 180,
+    "fps_effective": 15.0,
+    "blink_count": 4,
+    "blink_rate_pm": 20.0,
+    "ear_mean": 0.3247751263916538,
+    "ear_std": 0.07789080910979587
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake051.mp4",
+    "duration_s": 21.2,
+    "frames_analyzed": 265,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.3746691827288571,
+    "ear_std": 0.017454494022055175
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake052.mp4",
+    "duration_s": 28.68,
+    "frames_analyzed": 359,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 2.5069637883008355,
+    "ear_mean": 0.3165662328837075,
+    "ear_std": 0.03188855283341092
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake053.mp4",
+    "duration_s": 10.766666666666667,
+    "frames_analyzed": 162,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.43894341895833405,
+    "ear_std": 0.08438267401032054
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake054.mp4",
+    "duration_s": 16.68,
+    "frames_analyzed": 209,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 4.30622009569378,
+    "ear_mean": 0.42880741826065466,
+    "ear_std": 0.08816641120444811
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake055.mp4",
+    "duration_s": 12.266666666666667,
+    "frames_analyzed": 184,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.47213505474922,
+    "ear_std": 0.024412761073961828
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake056.mp4",
+    "duration_s": 13.133333333333333,
+    "frames_analyzed": 197,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.3451403779995564,
+    "ear_std": 0.01608773920896055
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake057.mp4",
+    "duration_s": 14.92,
+    "frames_analyzed": 187,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 9.62566844919786,
+    "ear_mean": 0.26674407083264906,
+    "ear_std": 0.030031492753778824
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake058.mp4",
+    "duration_s": 17.24,
+    "frames_analyzed": 216,
+    "fps_effective": 15.0,
+    "blink_count": 4,
+    "blink_rate_pm": 16.666666666666664,
+    "ear_mean": 0.31707825776021276,
+    "ear_std": 0.061512864593703136
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake059.mp4",
+    "duration_s": 22.3,
+    "frames_analyzed": 335,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.36868316963036507,
+    "ear_std": 0.018373593766635266
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake060.mp4",
+    "duration_s": 28.84,
+    "frames_analyzed": 361,
+    "fps_effective": 15.0,
+    "blink_count": 10,
+    "blink_rate_pm": 24.930747922437675,
+    "ear_mean": 0.24133027575834834,
+    "ear_std": 0.024315113249865614
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake061.mp4",
+    "duration_s": 33.76,
+    "frames_analyzed": 422,
+    "fps_effective": 15.0,
+    "blink_count": 8,
+    "blink_rate_pm": 17.061611374407583,
+    "ear_mean": 0.32314003765210564,
+    "ear_std": 0.08102513879850679
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake062.mp4",
+    "duration_s": 13.48,
+    "frames_analyzed": 169,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.3586251824277973,
+    "ear_std": 0.04813341930143768
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake063.mp4",
+    "duration_s": 14.1,
+    "frames_analyzed": 212,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.2973922280514116,
+    "ear_std": 0.02007125775498792
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake064.mp4",
+    "duration_s": 37.2,
+    "frames_analyzed": 465,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 1.9354838709677418,
+    "ear_mean": 0.07170491405267106,
+    "ear_std": 0.017787012836155056
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake065.mp4",
+    "duration_s": 16.08,
+    "frames_analyzed": 201,
+    "fps_effective": 15.0,
+    "blink_count": 4,
+    "blink_rate_pm": 17.910447761194032,
+    "ear_mean": 0.34935850760507575,
+    "ear_std": 0.0890356728460754
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake066.mp4",
+    "duration_s": 17.68,
+    "frames_analyzed": 221,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.46957424338673837,
+    "ear_std": 0.025072406122347752
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake067.mp4",
+    "duration_s": 14.5,
+    "frames_analyzed": 218,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.38527783922124753,
+    "ear_std": 0.021784570299311336
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake068.mp4",
+    "duration_s": 17.933333333333334,
+    "frames_analyzed": 269,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.6357154250402555,
+    "ear_std": 0.061186263762206865
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake069.mp4",
+    "duration_s": 13.366666666666667,
+    "frames_analyzed": 201,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 26.865671641791046,
+    "ear_mean": 0.3149874648336287,
+    "ear_std": 0.08316276826700753
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake070.mp4",
+    "duration_s": 25.8,
+    "frames_analyzed": 387,
+    "fps_effective": 15.0,
+    "blink_count": 13,
+    "blink_rate_pm": 30.232558139534884,
+    "ear_mean": 0.4890070836028324,
+    "ear_std": 0.15778387119022022
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake071.mp4",
+    "duration_s": 14.68,
+    "frames_analyzed": 184,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.42737365881671807,
+    "ear_std": 0.06077647458606501
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake072.mp4",
+    "duration_s": 15.1,
+    "frames_analyzed": 227,
+    "fps_effective": 15.0,
+    "blink_count": 5,
+    "blink_rate_pm": 19.823788546255507,
+    "ear_mean": 0.309663480082904,
+    "ear_std": 0.056403074933830274
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake073.mp4",
+    "duration_s": 12.44,
+    "frames_analyzed": 156,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 11.538461538461538,
+    "ear_mean": 0.3028449435325493,
+    "ear_std": 0.05087441501532813
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake074.mp4",
+    "duration_s": 28.12,
+    "frames_analyzed": 352,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.6293262066664341,
+    "ear_std": 0.03725216265351365
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake075.mp4",
+    "duration_s": 13.8,
+    "frames_analyzed": 173,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.6264524449465393,
+    "ear_std": 0.0789794957304523
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake076.mp4",
+    "duration_s": 20.433333333333334,
+    "frames_analyzed": 307,
+    "fps_effective": 15.0,
+    "blink_count": 9,
+    "blink_rate_pm": 26.38436482084691,
+    "ear_mean": 0.5065906585897013,
+    "ear_std": 0.1371531729291129
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake077.mp4",
+    "duration_s": 10.966666666666667,
+    "frames_analyzed": 165,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.5098566621557448,
+    "ear_std": 0.04723331309536924
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake078.mp4",
+    "duration_s": 24.44,
+    "frames_analyzed": 306,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.4376092672654208,
+    "ear_std": 0.04098177370151656
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake079.mp4",
+    "duration_s": 20.92,
+    "frames_analyzed": 262,
+    "fps_effective": 15.0,
+    "blink_count": 4,
+    "blink_rate_pm": 13.740458015267176,
+    "ear_mean": 0.3011921797223896,
+    "ear_std": 0.04991067910611625
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake080.mp4",
+    "duration_s": 14.133333333333333,
+    "frames_analyzed": 212,
+    "fps_effective": 15.0,
+    "blink_count": 13,
+    "blink_rate_pm": 55.18867924528302,
+    "ear_mean": 0.20333156412952272,
+    "ear_std": 0.1312912964107606
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake081.mp4",
+    "duration_s": 19.32,
+    "frames_analyzed": 242,
+    "fps_effective": 15.0,
+    "blink_count": 6,
+    "blink_rate_pm": 22.314049586776857,
+    "ear_mean": 0.3256241158176572,
+    "ear_std": 0.0708390830189616
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake082.mp4",
+    "duration_s": 46.8,
+    "frames_analyzed": 585,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.3633132954544851,
+    "ear_std": 0.018393337224477228
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake083.mp4",
+    "duration_s": 12.64,
+    "frames_analyzed": 158,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.3751513508129559,
+    "ear_std": 0.029463839930128116
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake084.mp4",
+    "duration_s": 18.166666666666668,
+    "frames_analyzed": 273,
+    "fps_effective": 15.0,
+    "blink_count": 3,
+    "blink_rate_pm": 9.89010989010989,
+    "ear_mean": 0.35925693775010514,
+    "ear_std": 0.08219121111845545
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake085.mp4",
+    "duration_s": 25.0,
+    "frames_analyzed": 375,
+    "fps_effective": 15.0,
+    "blink_count": 9,
+    "blink_rate_pm": 21.599999999999998,
+    "ear_mean": 0.3637051301892123,
+    "ear_std": 0.14084477790650737
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake086.mp4",
+    "duration_s": 13.16,
+    "frames_analyzed": 165,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.33010430473289243,
+    "ear_std": 0.03438247598803657
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake087.mp4",
+    "duration_s": 31.166666666666668,
+    "frames_analyzed": 468,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.6687606929540088,
+    "ear_std": 0.04141933412852392
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake088.mp4",
+    "duration_s": 12.36,
+    "frames_analyzed": 155,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.34059289975679063,
+    "ear_std": 0.04799589101951524
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake089.mp4",
+    "duration_s": 26.6,
+    "frames_analyzed": 333,
+    "fps_effective": 15.0,
+    "blink_count": 18,
+    "blink_rate_pm": 48.64864864864865,
+    "ear_mean": 0.27353194836842165,
+    "ear_std": 0.0986614609371101
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake090.mp4",
+    "duration_s": 30.04,
+    "frames_analyzed": 376,
+    "fps_effective": 15.0,
+    "blink_count": 9,
+    "blink_rate_pm": 21.542553191489365,
+    "ear_mean": 0.3192270462359064,
+    "ear_std": 0.056665133682856896
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake091.mp4",
+    "duration_s": 22.9,
+    "frames_analyzed": 344,
+    "fps_effective": 15.0,
+    "blink_count": 8,
+    "blink_rate_pm": 20.930232558139533,
+    "ear_mean": 0.3037404674655548,
+    "ear_std": 0.0666130991540958
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake092.mp4",
+    "duration_s": 21.3,
+    "frames_analyzed": 320,
+    "fps_effective": 15.0,
+    "blink_count": 16,
+    "blink_rate_pm": 45.00000000000001,
+    "ear_mean": 0.3354886434219019,
+    "ear_std": 0.09188083503007692
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake093.mp4",
+    "duration_s": 18.4,
+    "frames_analyzed": 230,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.41313542978601836,
+    "ear_std": 0.017715952780606056
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake094.mp4",
+    "duration_s": 12.833333333333334,
+    "frames_analyzed": 154,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 5.844155844155844,
+    "ear_mean": 0.5402605058595823,
+    "ear_std": 0.1128892903488866
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake095.mp4",
+    "duration_s": 22.36,
+    "frames_analyzed": 280,
+    "fps_effective": 15.0,
+    "blink_count": 16,
+    "blink_rate_pm": 51.42857142857143,
+    "ear_mean": 0.2185624858538121,
+    "ear_std": 0.052465398227730255
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake096.mp4",
+    "duration_s": 40.24,
+    "frames_analyzed": 503,
+    "fps_effective": 15.0,
+    "blink_count": 1,
+    "blink_rate_pm": 1.7892644135188867,
+    "ear_mean": 0.433172727618339,
+    "ear_std": 0.045031900941007195
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake097.mp4",
+    "duration_s": 16.8,
+    "frames_analyzed": 252,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": NaN,
+    "ear_std": NaN
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake098.mp4",
+    "duration_s": 19.12,
+    "frames_analyzed": 239,
+    "fps_effective": 15.0,
+    "blink_count": 2,
+    "blink_rate_pm": 7.531380753138076,
+    "ear_mean": 0.3237970631762305,
+    "ear_std": 0.04898591298228942
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake099.mp4",
+    "duration_s": 11.96,
+    "frames_analyzed": 150,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.36037777663246123,
+    "ear_std": 0.014932988805692299
+  },
+  {
+    "video_path": "/content/drive/MyDrive/Capstone2025_DeepfakeDetection/data/fake/fake100.mp4",
+    "duration_s": 24.52,
+    "frames_analyzed": 307,
+    "fps_effective": 15.0,
+    "blink_count": 0,
+    "blink_rate_pm": 0.0,
+    "ear_mean": 0.6036384644776409,
+    "ear_std": 0.04605999694010823
+  }
+]

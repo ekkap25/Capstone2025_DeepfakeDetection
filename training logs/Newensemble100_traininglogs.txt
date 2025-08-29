@@ -1,0 +1,106 @@
+Training MobileNetV2 (single-stage)...
+Epoch 1/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - accuracy: 0.9095 - loss: 0.2422
+Epoch 1: val_accuracy improved from -inf to 0.86146, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/mobilenetv2_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 138s 2s/step - accuracy: 0.9095 - loss: 0.2422 - val_accuracy: 0.8615 - val_loss: 0.3296 - learning_rate: 0.0010
+Epoch 2/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - accuracy: 0.9370 - loss: 0.1785
+Epoch 2: val_accuracy improved from 0.86146 to 0.88988, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/mobilenetv2_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 130s 2s/step - accuracy: 0.9370 - loss: 0.1784 - val_accuracy: 0.8899 - val_loss: 0.2751 - learning_rate: 0.0010
+Epoch 3/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - accuracy: 0.9620 - loss: 0.1183
+Epoch 3: val_accuracy improved from 0.88988 to 0.90586, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/mobilenetv2_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 128s 2s/step - accuracy: 0.9620 - loss: 0.1183 - val_accuracy: 0.9059 - val_loss: 0.2141 - learning_rate: 0.0010
+Epoch 4/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - accuracy: 0.9659 - loss: 0.1019
+Epoch 4: val_accuracy improved from 0.90586 to 0.92362, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/mobilenetv2_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 128s 2s/step - accuracy: 0.9659 - loss: 0.1019 - val_accuracy: 0.9236 - val_loss: 0.1952 - learning_rate: 0.0010
+Epoch 5/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - accuracy: 0.9793 - loss: 0.0740
+Epoch 5: val_accuracy improved from 0.92362 to 0.92718, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/mobilenetv2_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 127s 2s/step - accuracy: 0.9793 - loss: 0.0741 - val_accuracy: 0.9272 - val_loss: 0.2003 - learning_rate: 0.0010
+Epoch 6/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - accuracy: 0.9854 - loss: 0.0530
+Epoch 6: val_accuracy improved from 0.92718 to 0.94139, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/mobilenetv2_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 127s 2s/step - accuracy: 0.9854 - loss: 0.0531 - val_accuracy: 0.9414 - val_loss: 0.1592 - learning_rate: 0.0010
+Epoch 7/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - accuracy: 0.9865 - loss: 0.0430
+Epoch 7: val_accuracy did not improve from 0.94139
+84/84 ━━━━━━━━━━━━━━━━━━━━ 127s 2s/step - accuracy: 0.9865 - loss: 0.0431 - val_accuracy: 0.9201 - val_loss: 0.2275 - learning_rate: 0.0010
+Epoch 8/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - accuracy: 0.9822 - loss: 0.0563
+Epoch 8: ReduceLROnPlateau reducing learning rate to 0.0003000000142492354.
+
+Epoch 8: val_accuracy did not improve from 0.94139
+84/84 ━━━━━━━━━━━━━━━━━━━━ 145s 2s/step - accuracy: 0.9822 - loss: 0.0564 - val_accuracy: 0.9254 - val_loss: 0.2174 - learning_rate: 0.0010
+Epoch 9/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - accuracy: 0.9890 - loss: 0.0361
+Epoch 9: val_accuracy did not improve from 0.94139
+84/84 ━━━━━━━━━━━━━━━━━━━━ 127s 2s/step - accuracy: 0.9890 - loss: 0.0361 - val_accuracy: 0.9325 - val_loss: 0.2086 - learning_rate: 3.0000e-04
+Epoch 9: early stopping
+Restoring model weights from the end of the best epoch: 6.
+
+Training EfficientNetB0 (single-stage)...
+Epoch 1/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.6215 - loss: 0.7547
+Epoch 1: val_accuracy improved from -inf to 0.76554, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/efficientnetb0_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 212s 2s/step - accuracy: 0.6221 - loss: 0.7535 - val_accuracy: 0.7655 - val_loss: 0.5759 - learning_rate: 0.0010
+Epoch 2/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.8013 - loss: 0.4511
+Epoch 2: val_accuracy improved from 0.76554 to 0.81705, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/efficientnetb0_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 197s 2s/step - accuracy: 0.8014 - loss: 0.4509 - val_accuracy: 0.8171 - val_loss: 0.5019 - learning_rate: 0.0010
+Epoch 3/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.8220 - loss: 0.3867
+Epoch 3: val_accuracy did not improve from 0.81705
+84/84 ━━━━━━━━━━━━━━━━━━━━ 206s 2s/step - accuracy: 0.8220 - loss: 0.3867 - val_accuracy: 0.7798 - val_loss: 0.4575 - learning_rate: 0.0010
+Epoch 4/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.8505 - loss: 0.3353
+Epoch 4: val_accuracy improved from 0.81705 to 0.87034, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/efficientnetb0_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 196s 2s/step - accuracy: 0.8506 - loss: 0.3351 - val_accuracy: 0.8703 - val_loss: 0.3553 - learning_rate: 0.0010
+Epoch 5/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.8897 - loss: 0.2784
+Epoch 5: val_accuracy improved from 0.87034 to 0.90409, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/efficientnetb0_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 197s 2s/step - accuracy: 0.8897 - loss: 0.2785 - val_accuracy: 0.9041 - val_loss: 0.2897 - learning_rate: 0.0010
+Epoch 6/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.8864 - loss: 0.2513
+Epoch 6: val_accuracy improved from 0.90409 to 0.91119, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/efficientnetb0_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 204s 2s/step - accuracy: 0.8864 - loss: 0.2514 - val_accuracy: 0.9112 - val_loss: 0.2557 - learning_rate: 0.0010
+Epoch 7/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9001 - loss: 0.2432
+Epoch 7: val_accuracy improved from 0.91119 to 0.92185, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/efficientnetb0_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 197s 2s/step - accuracy: 0.9001 - loss: 0.2431 - val_accuracy: 0.9218 - val_loss: 0.2304 - learning_rate: 0.0010
+Epoch 8/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.8988 - loss: 0.2445
+Epoch 8: val_accuracy improved from 0.92185 to 0.93250, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/efficientnetb0_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 196s 2s/step - accuracy: 0.8988 - loss: 0.2446 - val_accuracy: 0.9325 - val_loss: 0.1940 - learning_rate: 0.0010
+Epoch 9/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9199 - loss: 0.1977
+Epoch 9: val_accuracy did not improve from 0.93250
+84/84 ━━━━━━━━━━━━━━━━━━━━ 204s 2s/step - accuracy: 0.9198 - loss: 0.1980 - val_accuracy: 0.9325 - val_loss: 0.1782 - learning_rate: 0.0010
+Epoch 10/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9162 - loss: 0.2081
+Epoch 10: val_accuracy did not improve from 0.93250
+84/84 ━━━━━━━━━━━━━━━━━━━━ 196s 2s/step - accuracy: 0.9162 - loss: 0.2081 - val_accuracy: 0.9218 - val_loss: 0.1947 - learning_rate: 0.0010
+Epoch 11/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9273 - loss: 0.1807
+Epoch 11: val_accuracy improved from 0.93250 to 0.93428, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/efficientnetb0_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 203s 2s/step - accuracy: 0.9272 - loss: 0.1809 - val_accuracy: 0.9343 - val_loss: 0.1563 - learning_rate: 0.0010
+Epoch 12/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9353 - loss: 0.1641
+Epoch 12: val_accuracy improved from 0.93428 to 0.94849, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/efficientnetb0_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 195s 2s/step - accuracy: 0.9353 - loss: 0.1641 - val_accuracy: 0.9485 - val_loss: 0.1378 - learning_rate: 0.0010
+Epoch 13/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9310 - loss: 0.1726
+Epoch 13: val_accuracy improved from 0.94849 to 0.95027, saving model to /content/drive/MyDrive/Capstone2025_DeepfakeDetection/models_fast100/efficientnetb0_fast_best.keras
+84/84 ━━━━━━━━━━━━━━━━━━━━ 195s 2s/step - accuracy: 0.9309 - loss: 0.1726 - val_accuracy: 0.9503 - val_loss: 0.1480 - learning_rate: 0.0010
+Epoch 14/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9441 - loss: 0.1409
+Epoch 14: ReduceLROnPlateau reducing learning rate to 0.0003000000142492354.
+
+Epoch 14: val_accuracy did not improve from 0.95027
+84/84 ━━━━━━━━━━━━━━━━━━━━ 202s 2s/step - accuracy: 0.9441 - loss: 0.1409 - val_accuracy: 0.9307 - val_loss: 0.1652 - learning_rate: 0.0010
+Epoch 15/15
+84/84 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9345 - loss: 0.1534
+Epoch 15: val_accuracy did not improve from 0.95027
+84/84 ━━━━━━━━━━━━━━━━━━━━ 255s 2s/step - accuracy: 0.9346 - loss: 0.1533 - val_accuracy: 0.9503 - val_loss: 0.1246 - learning_rate: 3.0000e-04
+Restoring model weights from the end of the best epoch: 15.
